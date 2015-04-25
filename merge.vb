@@ -1,3 +1,9 @@
+'merge one or more xlsx' sheets to one xlsx's sheets
+'and create index table of content and link
+'by lwj1396@163.com
+'2015-4-25
+
+
 '定义一个find函数
 Private Function find(s1 As String, s2 As String) As String
     Dim i As Integer
